@@ -1,0 +1,102 @@
+body{
+  font-family: "Ubuntu";
+}
+
+#title{
+  background-color: #ff4c68
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif';
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #fff
+}
+
+.container-fluild{
+  padding: 3% 15%;
+
+}
+
+
+
+/*navgation bar*/
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+font-size: 2.5rem;
+font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.5;
+  font-family: 'Montserrat-light';
+
+}
+
+/*images*/
+
+.ipone-img{
+  transform: rotate(30deg);
+  width: 60%;
+
+}
+
+/*mid section*/
+
+.features-section-text{
+  padding-right: 50px;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.MID{
+  display: flex;
+}
+
+.mt{
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-family: 'Montserrat-bold', sans-serif';
+
+}
+
+.mp{
+  color: #BfBfBf
+}
+/*font awesome*/
+/*
+.check{
+  color:  #ff4c68;
+
+}
+.bullseye{
+  color:  #ff4c68;
+
+}
+.heart{
+  color:  #ff4c68;
+
+}
+*/
+a{
+  color: #cfB172;
+  transition: .5s;
+  display:  inline-flex;
+}
+
+a:hover{
+ color: #ff4c68;
+ display:  inline-flex;
+
+}
